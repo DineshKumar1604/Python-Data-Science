@@ -18,9 +18,3 @@ This workshop covers the essential libraries and concepts in the Python data sci
     * **Decision Trees** and **Support Vector Machines (SVM)** for more complex classification.
     * Model evaluation using metrics like accuracy, confusion matrix, and ROC curves.
 ```sh
-# Example for the first script
-python scripts/01_python_fundamentals.py
-
-# Example for the machine learning script
-python scripts/04_machine_learning_models.py
-```
